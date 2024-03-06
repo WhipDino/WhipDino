@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m studying java<br>👯 I’m looking to collaborate on different projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning java fundamentals<br>⚡ Fun fact: I love the dopamine of a successful code
+🔭 I’m studying java<br>👯 I’m looking to collaborate on different projects<br>🌱 I’m currently learning java fundamentals<br>⚡ Fun fact: I love the dopamine of a successful code
 
 
 ## 🌐 Socials:
